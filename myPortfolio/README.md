@@ -1,16 +1,53 @@
-# React + Vite
+# 🌐 Dhruvkumar Padodara – Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built using React.js and Tailwind CSS to showcase my projects, skills, and experience as a Full-Stack Developer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 About The Project
 
-## Expanding the ESLint configuration
+This portfolio website highlights:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- My technical skills
+- Featured projects
+- Education background
+- Contact form integration
+- Modern UI/UX design
+
+The design focuses on clean layout, responsive structure, and professional presentation.
+
+---
+
+## 🛠️ Tech Stack
+
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
+- React Scroll
+- React Icons
+- React Hook Form
+- Axios
+- Getform.io (for contact form backend)
+
+---
+
+## ✨ Features
+
+- Fully responsive design (Mobile, Tablet, Desktop)
+- Smooth scrolling navigation
+- Animated navbar on scroll
+- Glassmorphism UI elements
+- Hover effects and transitions
+- Contact form with API integration
+- Modern gradient design theme
+
+---
+
+## 📂 Installation & Setup
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
