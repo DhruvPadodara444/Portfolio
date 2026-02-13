@@ -1,9 +1,9 @@
 import Navbar from "./Components/Navbar";
 import Home from "./Components/Home";
-import About from "./components/About";
-import PortFolio from "./components/PortFolio";
-import Footer from "./components/Footer";
-import Contact from "./components/Contact";
+import About from "./Components/About";
+import PortFolio from "./Components/PortFolio";
+import Footer from "./Components/Footer";
+import Contact from "./Components/Contact";
 import { Toaster } from "react-hot-toast";
 
 function App() {
