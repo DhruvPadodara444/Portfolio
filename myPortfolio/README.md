@@ -51,3 +51,16 @@ The design focuses on clean layout, responsive structure, and professional prese
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
+
+2. Navigate to the project directory
+
+cd your-repo-name
+
+3. Install dependencies
+
+npm install
+
+
+4. Start the development server
+
+npm run dhruv
